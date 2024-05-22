@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+/*card*/
+.card {
+  height: 100%;
+}
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+.list-group-item {
+  padding: 12px;
+}
